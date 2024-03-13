@@ -1,0 +1,1 @@
+"C:\Users\%USERNAME%\AppData\Local\Programs\UiPath\Studio\UiRobot.exe" -file  "%PATH_TO_MAIN.XAML"
